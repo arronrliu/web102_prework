@@ -21,6 +21,18 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.games-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search{
+    display: flex;
+    height: 50px;
 }
 
 .stats-card {
