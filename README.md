@@ -23,11 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="800" controls>
-    <source src='https://i.imgur.com/7BQ2MOx.mp4' type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/26617049/209069657-5f87a63d-7aba-4a4f-9905-bb73f3f03c16.mp4
 
-GIF created with [Kap](https://getkap.co/)
+mp4 created with [Kap](https://getkap.co/)
 
 ## Notes
 
